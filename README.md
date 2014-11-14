@@ -1,4 +1,3 @@
-wiki
-====
-
-A wiki for learning materials and lessons.
+IdeaLab - Learn
+===============
+A place for learning materials and lessons.
